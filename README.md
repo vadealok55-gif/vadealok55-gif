@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm ALOK
 
-Email Me 👉 ✉️ **vadealok55@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **vadealok55@gmail.com** For Collaboration/Project or Anything Else.
 
 I can design and build whatever I can Imagine.
 
