@@ -23,8 +23,8 @@ If an idea pops into my Head, Chances are i'll build and Ship it.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=vadealok55-gif&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=vadealok55-gif&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vadealok55-gif&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=vadealok55-gif&theme=dark&hide_border=false)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
